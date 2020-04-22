@@ -44,7 +44,7 @@ You can opt out of having the bot comment on first time pull requests, pull requ
 For some inspiration about what kind of content to include in your .github/config files, check out [Electron's Configuration](https://github.com/electron/electron/blob/master/.github/config.yml).
 
 ## Need help?
-
+Yes of course!
 If you need help using this app, we encourage you to:
 
 - Check out the [Getting Started Guide](docs/getting-started.md) in the docs folder of this repository
