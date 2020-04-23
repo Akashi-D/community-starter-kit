@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
+Described in Details!
+
+## What it does
+
+Few Steps to follow:
+
 ## Described in Details
 
 ## What it does
 
 ## Few Steps to follow
+
 
 ## Getting started
 
