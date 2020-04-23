@@ -6,6 +6,13 @@ Described in Details!
 
 Few Steps to follow:
 
+## Described in Details
+
+## What it does
+
+## Few Steps to follow
+
+
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
